@@ -1,0 +1,33 @@
+Public Toilets in Chennai : 
+
+List all the public toilets available in Chennai
+
+VAS : Fares and photos of the places. 
+
+Pros : Can earn a good name through public promotion.
+
+Things to Do : Circle entire city and exactly pin point the location
+			   Map API
+			   Review System
+			   
+Cons : Usage in a day is little less 
+
+
+
+Water Can Delivery
+
+Take an area : Combination of 3 or 4 streets. Tie up with local water vendors.
+				
+VAS : Scheduled delivery  & Online Payment (Bit Risk coz of failed delivery and payment gateway is not easy)
+
+Pros : Easily reachable to bachelors dependent on water can.
+		Easy UI 
+
+Things to Do : Find an area where the bachelors/water can usage is more and start the pilot app there.
+
+Cons : Convincing Shop keepers for this idea.
+	   Handling repeated failed delivery of can.
+	   A simple phone call can do then why an app : So this needs to be delivered immediately
+	   
+	   
+Provisional Store : Same as Water can delivery app
